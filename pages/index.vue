@@ -1,8 +1,8 @@
 <template>
   <div class="m-8">
-    <TheHeader />
+  
 
-    <h1 class="font-bold text-4xl">Blog Posts</h1>
+    <h1 class="font-bold text-4xl">Covid19 Updates</h1>
     <ul>
       <li
         v-for="article of articles"
